@@ -20,7 +20,6 @@ CollegueSystemWebApi is a web API designed to manage college-related operations.
 - Manage student records
 - Course enrollment
 - Faculty management
-- Grade tracking
 - Authentication and authorization
 
 ## Technologies Used
@@ -32,6 +31,7 @@ CollegueSystemWebApi is a web API designed to manage college-related operations.
 - Logging Errors With Serilog
 - Swagger
 - JWT Authentication
+- Policy Based Authorization
 - Dependency Injection
 - FluentValidation With Custom Error Handling Middleware
 
