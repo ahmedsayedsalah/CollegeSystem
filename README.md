@@ -24,7 +24,7 @@ CollegueSystemWebApi is a web API designed to manage college-related operations.
 
 ## Technologies Used
 - ASP.NET Core
-- Entity Framework Core (Interceptors => soft delete)
+- Entity Framework Core (Interceptor => soft delete)
 - Linq
 - SQL Server
 - AutoMapper
