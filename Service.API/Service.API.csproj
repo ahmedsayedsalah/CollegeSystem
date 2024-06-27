@@ -21,9 +21,5 @@
     <ProjectReference Include="..\Service.DependencyInjection\Service.DependencyInjection.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Security\Authorization\" />
-  </ItemGroup>
-
 
 </Project>
