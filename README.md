@@ -58,7 +58,6 @@ CollegueSystemWebApi is a web API designed to manage college-related operations.
     ```sh
     dotnet run
     ```
-2. The API will be available at `https://localhost:5001` or `http://localhost:5000`.
 
 ## Project Structure
 - **Framework.Core**
