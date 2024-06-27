@@ -1,0 +1,11 @@
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\bin\Debug\net7.0\Framework.Core.deps.json
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\bin\Debug\net7.0\Framework.Core.dll
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\bin\Debug\net7.0\Framework.Core.pdb
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\Debug\net7.0\Framework.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\Debug\net7.0\Framework.Core.AssemblyInfoInputs.cache
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\Debug\net7.0\Framework.Core.AssemblyInfo.cs
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\Debug\net7.0\Framework.Core.csproj.CoreCompileInputs.cache
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\Debug\net7.0\Framework.Core.dll
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\Debug\net7.0\refint\Framework.Core.dll
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\Debug\net7.0\Framework.Core.pdb
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\Debug\net7.0\ref\Framework.Core.dll

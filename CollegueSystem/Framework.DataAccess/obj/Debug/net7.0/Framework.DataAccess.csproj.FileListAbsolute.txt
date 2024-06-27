@@ -1,0 +1,15 @@
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\bin\Debug\net7.0\Framework.DataAccess.deps.json
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\bin\Debug\net7.0\Framework.DataAccess.dll
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\bin\Debug\net7.0\Framework.DataAccess.pdb
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\bin\Debug\net7.0\Framework.Core.dll
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\bin\Debug\net7.0\Framework.Core.pdb
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\obj\Debug\net7.0\Framework.DataAccess.csproj.AssemblyReference.cache
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\obj\Debug\net7.0\Framework.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\obj\Debug\net7.0\Framework.DataAccess.AssemblyInfoInputs.cache
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\obj\Debug\net7.0\Framework.DataAccess.AssemblyInfo.cs
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\obj\Debug\net7.0\Framework.DataAccess.csproj.CoreCompileInputs.cache
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\obj\Debug\net7.0\Framework.DataAccess.csproj.CopyComplete
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\obj\Debug\net7.0\Framework.DataAccess.dll
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\obj\Debug\net7.0\refint\Framework.DataAccess.dll
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\obj\Debug\net7.0\Framework.DataAccess.pdb
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.DataAccess\obj\Debug\net7.0\ref\Framework.DataAccess.dll

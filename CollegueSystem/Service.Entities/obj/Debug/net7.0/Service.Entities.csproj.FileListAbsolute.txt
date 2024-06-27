@@ -1,0 +1,15 @@
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\bin\Debug\net7.0\Service.Entities.deps.json
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\bin\Debug\net7.0\Service.Entities.dll
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\bin\Debug\net7.0\Service.Entities.pdb
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\bin\Debug\net7.0\Framework.Core.dll
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\bin\Debug\net7.0\Framework.Core.pdb
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\obj\Debug\net7.0\Service.Entities.csproj.AssemblyReference.cache
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\obj\Debug\net7.0\Service.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\obj\Debug\net7.0\Service.Entities.AssemblyInfoInputs.cache
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\obj\Debug\net7.0\Service.Entities.AssemblyInfo.cs
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\obj\Debug\net7.0\Service.Entities.csproj.CoreCompileInputs.cache
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\obj\Debug\net7.0\Service.Entities.csproj.CopyComplete
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\obj\Debug\net7.0\Service.Entities.dll
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\obj\Debug\net7.0\refint\Service.Entities.dll
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\obj\Debug\net7.0\Service.Entities.pdb
+D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Service.Entities\obj\Debug\net7.0\ref\Service.Entities.dll
