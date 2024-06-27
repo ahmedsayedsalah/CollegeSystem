@@ -1,8 +1,13 @@
+To enhance the README file with specific topics and technologies used in the project, you can list them under a new section called "Technologies Used." Here is the updated README with that addition:
+
+---
+
 # CollegueSystemWebApi
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -15,7 +20,20 @@ CollegueSystemWebApi is a web API designed to manage college-related operations.
 - Manage student records
 - Course enrollment
 - Faculty management
+- Grade tracking
 - Authentication and authorization
+
+## Technologies Used
+- ASP.NET Core
+- Entity Framework Core (Interceptors => soft delete)
+- Linq
+- SQL Server
+- AutoMapper
+- Logging Errors With Serilog
+- Swagger
+- JWT Authentication
+- Dependency Injection
+- FluentValidation With Custom Error Handling Middleware
 
 ## Installation
 1. Clone the repository:
@@ -54,5 +72,3 @@ CollegueSystemWebApi is a web API designed to manage college-related operations.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and include appropriate tests.
-
-
