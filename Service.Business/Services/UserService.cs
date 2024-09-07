@@ -85,7 +85,7 @@ namespace Service.Business.Services
             return map;
         }
 
-        public async Task<int> Add(UserVM user)
+        public async Task<int> Add(RegisterUserVM user)
         {
             if (user is null)
             {

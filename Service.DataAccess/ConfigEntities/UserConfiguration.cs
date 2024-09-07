@@ -16,6 +16,8 @@ namespace Service.DataAccess.ConfigEntities
             builder.ToTable("Users").HasKey(x=> x.Id);
 
             builder.HasIndex(x=> x.Email).IsUnique();
+
+            builder.Property(x => x.Role).HasDefaultValue("Student").IsRequired();
         }
     }
 }

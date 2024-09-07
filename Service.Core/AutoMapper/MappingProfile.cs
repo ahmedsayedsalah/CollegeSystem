@@ -28,6 +28,7 @@ namespace Service.Core.AutoMapper
             CreateMap<Course,UpdateCourseVM>().ReverseMap();
             CreateMap<User,UserVM>().ReverseMap();
             CreateMap<User, UpdateUserVM>().ReverseMap();
+            CreateMap<User,RegisterUserVM>().ReverseMap();
         }
     }
 }

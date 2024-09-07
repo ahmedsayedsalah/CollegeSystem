@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2D1rT9kMzj3iPo3SvLHQJsuMq4oMy2myJ9of0brhYTuAXIZuMLOGTbsNBjqws5LRtI3amdc6vTbkPgjJvXqmAA==",
+  "dgSpecHash": "oIE0OzF2JaP5UpZQjFYGt96i3qzI3W7MKjS1sqBXPz2tsD7mlct5MYBp35rDfBQtl/U/EgoPj9GfjNdyK7VwIQ==",
   "success": true,
-  "projectFilePath": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.Entities\\Service.Entities.csproj",
+  "projectFilePath": "D:\\My-Github\\CollegueSystemWebApi\\Service.Entities\\Service.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

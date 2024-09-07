@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0vdItwtff/K3InD0QoeFRPp/ISZoMZFEWNf1MGTbUpkH/BfUAs9+WXJJf/HjMykw0WM01INNP4QKL+EIiEWDTg==",
+  "dgSpecHash": "g1dLZoWasTSyjdh60TdtJColpZDoPNhG3LMoofGPkciW8832lTa9uUUC0MN3S2U1/K76B1EjwtW9+S1gr5KSKQ==",
   "success": true,
-  "projectFilePath": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.DependencyInjection\\Service.DependencyInjection.csproj",
+  "projectFilePath": "D:\\My-Github\\CollegueSystemWebApi\\Service.DependencyInjection\\Service.DependencyInjection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sh\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\sh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

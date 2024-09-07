@@ -9,3 +9,14 @@ D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\
 D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\Debug\net7.0\refint\Framework.Core.dll
 D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\Debug\net7.0\Framework.Core.pdb
 D:\web\backend\Projects\WebApi\CollegueSystem\CollegueSystem\Framework.Core\obj\Debug\net7.0\ref\Framework.Core.dll
+D:\My-Github\CollegueSystemWebApi\Framework.Core\bin\Debug\net7.0\Framework.Core.deps.json
+D:\My-Github\CollegueSystemWebApi\Framework.Core\bin\Debug\net7.0\Framework.Core.dll
+D:\My-Github\CollegueSystemWebApi\Framework.Core\bin\Debug\net7.0\Framework.Core.pdb
+D:\My-Github\CollegueSystemWebApi\Framework.Core\obj\Debug\net7.0\Framework.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\My-Github\CollegueSystemWebApi\Framework.Core\obj\Debug\net7.0\Framework.Core.AssemblyInfoInputs.cache
+D:\My-Github\CollegueSystemWebApi\Framework.Core\obj\Debug\net7.0\Framework.Core.AssemblyInfo.cs
+D:\My-Github\CollegueSystemWebApi\Framework.Core\obj\Debug\net7.0\Framework.Core.csproj.CoreCompileInputs.cache
+D:\My-Github\CollegueSystemWebApi\Framework.Core\obj\Debug\net7.0\Framework.Core.dll
+D:\My-Github\CollegueSystemWebApi\Framework.Core\obj\Debug\net7.0\refint\Framework.Core.dll
+D:\My-Github\CollegueSystemWebApi\Framework.Core\obj\Debug\net7.0\Framework.Core.pdb
+D:\My-Github\CollegueSystemWebApi\Framework.Core\obj\Debug\net7.0\ref\Framework.Core.dll

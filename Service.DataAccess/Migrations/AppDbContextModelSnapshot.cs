@@ -232,7 +232,9 @@ namespace Service.DataAccess.Migrations
 
                     b.Property<string>("Role")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("nvarchar(max)")
+                        .HasDefaultValue("Student");
 
                     b.HasKey("Id");
 

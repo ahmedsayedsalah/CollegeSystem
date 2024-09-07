@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gcklQuqGtlFe60IiKCdP2zbwiVRkJaviyswevpeNHieu9IXqn5cXznihkPR15B8Z7oCRxBvq9s9kxzktLbvK3w==",
+  "dgSpecHash": "j3X4Fr9c9b9L8Zp8vskfnQnl5H4ttHANxxgvbUYo7ZZUcnoFBGatvL3S1nWsx0MxsYGrmhoV/9JDAQfP8ILDmg==",
   "success": true,
-  "projectFilePath": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.DataAccess\\Service.DataAccess.csproj",
+  "projectFilePath": "D:\\My-Github\\CollegueSystemWebApi\\Service.DataAccess\\Service.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sh\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\sh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

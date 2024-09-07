@@ -3358,11 +3358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.DependencyInjection\\Service.DependencyInjection.csproj",
+      "projectUniqueName": "D:\\My-Github\\CollegueSystemWebApi\\Service.DependencyInjection\\Service.DependencyInjection.csproj",
       "projectName": "Service.DependencyInjection",
-      "projectPath": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.DependencyInjection\\Service.DependencyInjection.csproj",
+      "projectPath": "D:\\My-Github\\CollegueSystemWebApi\\Service.DependencyInjection\\Service.DependencyInjection.csproj",
       "packagesPath": "C:\\Users\\sh\\.nuget\\packages\\",
-      "outputPath": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.DependencyInjection\\obj\\",
+      "outputPath": "D:\\My-Github\\CollegueSystemWebApi\\Service.DependencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3383,11 +3383,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.Business\\Service.Business.csproj": {
-              "projectPath": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.Business\\Service.Business.csproj"
+            "D:\\My-Github\\CollegueSystemWebApi\\Service.Business\\Service.Business.csproj": {
+              "projectPath": "D:\\My-Github\\CollegueSystemWebApi\\Service.Business\\Service.Business.csproj"
             },
-            "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.DataAccess\\Service.DataAccess.csproj": {
-              "projectPath": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.DataAccess\\Service.DataAccess.csproj"
+            "D:\\My-Github\\CollegueSystemWebApi\\Service.DataAccess\\Service.DataAccess.csproj": {
+              "projectPath": "D:\\My-Github\\CollegueSystemWebApi\\Service.DataAccess\\Service.DataAccess.csproj"
             }
           }
         }

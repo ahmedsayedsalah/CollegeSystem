@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8tS87eKCiNk6MhsdDYIq2K3M8v1cFNWOBMi56QkWSqFNEI4zUM8yGo5eU44yyvvx7opfIo5JWgPFICKU0vaa/A==",
+  "dgSpecHash": "t+VucCxpiGLw7AYboMITDMdHgAZ6I3TPPDR06dWIW4mn/v051CogD0YoKOL6kwzkZ7YjJYkAn9KIECd/VciNKQ==",
   "success": true,
-  "projectFilePath": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Framework.DataAccess\\Framework.DataAccess.csproj",
+  "projectFilePath": "D:\\My-Github\\CollegueSystemWebApi\\Framework.DataAccess\\Framework.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sh\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\sh\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

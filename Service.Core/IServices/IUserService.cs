@@ -14,7 +14,7 @@ namespace Service.Core.IServices
         Task<IList<UserVM>> GetAll();
         Task<IList<UserVM>> Paginate(int pageIndex, int pageSize);
         Task<UserVM> GetById(int id);
-        Task<int> Add(UserVM user);
+        Task<int> Add(RegisterUserVM user);
         Task Update(UpdateUserVM user);
         Task Delete(int usrId);
         public Task<UserVM> AuthenticateUser(string email, string password);

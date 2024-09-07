@@ -4619,11 +4619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.API\\Service.API.csproj",
+      "projectUniqueName": "D:\\My-Github\\CollegueSystemWebApi\\Service.API\\Service.API.csproj",
       "projectName": "Service.API",
-      "projectPath": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.API\\Service.API.csproj",
+      "projectPath": "D:\\My-Github\\CollegueSystemWebApi\\Service.API\\Service.API.csproj",
       "packagesPath": "C:\\Users\\sh\\.nuget\\packages\\",
-      "outputPath": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.API\\obj\\",
+      "outputPath": "D:\\My-Github\\CollegueSystemWebApi\\Service.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4644,8 +4644,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.DependencyInjection\\Service.DependencyInjection.csproj": {
-              "projectPath": "D:\\web\\backend\\Projects\\WebApi\\CollegueSystem\\CollegueSystem\\Service.DependencyInjection\\Service.DependencyInjection.csproj"
+            "D:\\My-Github\\CollegueSystemWebApi\\Service.DependencyInjection\\Service.DependencyInjection.csproj": {
+              "projectPath": "D:\\My-Github\\CollegueSystemWebApi\\Service.DependencyInjection\\Service.DependencyInjection.csproj"
             }
           }
         }
