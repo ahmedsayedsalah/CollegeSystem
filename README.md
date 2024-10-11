@@ -1,6 +1,3 @@
-To enhance the README file with specific topics and technologies used in the project, you can list them under a new section called "Technologies Used." Here is the updated README with that addition:
-
----
 
 # CollegueSystemWebApi
 
