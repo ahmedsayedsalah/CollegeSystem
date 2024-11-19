@@ -1,5 +1,5 @@
 
-# CollegueSystemWebApi
+# CollegueSystem
 
 ## Table of Contents
 - [Introduction](#introduction)
