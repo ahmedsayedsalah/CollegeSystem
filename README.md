@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Project Structure](#project-structure)
+- [Project Structure (Clean Architecture)](#project-structure)
 - [Topics](#topics)
   
 ## Introduction
@@ -16,7 +16,7 @@ CollegueSystem is a web API designed to manage college-related operations. It is
 - Faculty management
 - Authentication and authorization
 
-  ## Project Structure (Clean Architecture)
+  ## Project Structure
 - **Framework.Core**
 - **Framework.DataAccess**
 - **Service.API**
