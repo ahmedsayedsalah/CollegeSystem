@@ -8,7 +8,7 @@
 - [Topics](#topics)
   
 ## Introduction
-CollegueSystemWebApi is a web API designed to manage college-related operations. It is built with C# and leverages various frameworks and libraries to provide a robust and efficient solution for handling academic data and processes.
+CollegueSystem is a web API designed to manage college-related operations. It is built with C# and leverages various frameworks and libraries to provide a robust and efficient solution for handling academic data and processes.
 
 ## Features
 - Manage student records
@@ -16,7 +16,7 @@ CollegueSystemWebApi is a web API designed to manage college-related operations.
 - Faculty management
 - Authentication and authorization
 
-  ## Project Structure
+  ## Project Structure (Clean Architecture)
 - **Framework.Core**
 - **Framework.DataAccess**
 - **Service.API**
