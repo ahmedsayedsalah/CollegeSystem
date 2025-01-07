@@ -1,5 +1,5 @@
 
-# CollegueSystem
+# CollegeSystem
 
 ## Table of Contents
 - [Introduction](#introduction)
